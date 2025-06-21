@@ -1,0 +1,2 @@
+# processing-
+利用processing进行的一些视觉艺术作品的生成开发，主要基于两种语言模式下开发（python mode和java mode）。processing中集成了许多的语法库，使得对编程能力的需求并不是很高，便于入门和上手，主要是需要有艺术创造的想法及思维
